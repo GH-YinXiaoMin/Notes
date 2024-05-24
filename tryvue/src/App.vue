@@ -13,7 +13,7 @@
       <br />
       <router-link to="/course_p10">P10 通过key管理状态</router-link>
       <br />
-      <router-link to="/course_p11">course_p11</router-link>
+      <router-link to="/course_p11">P11 内联事件处理器</router-link>
       <br />
       <router-link to="/course_p12">course_p12</router-link>
       <br />
